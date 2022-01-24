@@ -1,4 +1,4 @@
-# flutter_universe
+# animapp
 
 A new Flutter project.
 
