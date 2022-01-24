@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717147337410",
+    "project_id": "animapp-2b2b0",
+    "storage_bucket": "animapp-2b2b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717147337410:android:a13e93ac124caf0b26815b",
+        "android_client_info": {
+          "package_name": "com.example.animapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717147337410-23fcvdcm2k89anmaj84cbj9osgsj752b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfEB0plYCQcXGsbgxejKOu4XQXPOsIcFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717147337410-23fcvdcm2k89anmaj84cbj9osgsj752b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
