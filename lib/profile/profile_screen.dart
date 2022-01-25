@@ -8,7 +8,7 @@ import 'package:provider/src/provider.dart';
 
 class ProfileScreen extends StatelessWidget {
   static const routeName = 'profile-screen';
-  var buttonText1 = 'Login';
+  var buttonText1 = 'Register or Login';
   var buttonText2 = 'Continue on your Profile';
   @override
   Widget build(BuildContext context) {
